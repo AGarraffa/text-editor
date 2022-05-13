@@ -1,4 +1,5 @@
 const butInstall = document.getElementById('buttonInstall');
+// added to fix runtime error
 
 // Logic for installing the PWA
 // TODO: Add an event handler to the `beforeinstallprompt` event

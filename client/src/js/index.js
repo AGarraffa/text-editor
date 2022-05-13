@@ -2,6 +2,7 @@ import { Workbox } from 'workbox-window';
 import Editor from './editor';
 import './database';
 import '../css/style.css';
+// added this to try to fix the runtime error
 
 const main = document.querySelector('#main');
 main.innerHTML = '';
